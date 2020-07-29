@@ -1,0 +1,16 @@
+ante: 5
+blind_structure: null
+initial_stack: 1000
+max_round: 4
+small_blind: 10
+ai_players:
+- name: Cam
+  path: ./fish_player_setup.py
+- name: Ricardo
+  path: ./fish_player_setup.py
+- name: Paddy
+  path: ./fish_player_setup.py
+- name: Phil
+  path: ./random_player_setup.py
+- name: Norrie
+  path: ./random_player_setup.py
